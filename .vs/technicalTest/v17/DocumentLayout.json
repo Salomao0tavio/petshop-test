@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\otavi\\source\\repos\\technicalTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8166989-C966-4BE9-B2DC-1BC6ECC581DB}|petshop\\petshop.esproj|c:\\users\\otavi\\source\\repos\\technicaltest\\petshop\\src\\components\\navbar.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{D8166989-C966-4BE9-B2DC-1BC6ECC581DB}|petshop\\petshop.esproj|solutionrelative:petshop\\src\\components\\navbar.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8166989-C966-4BE9-B2DC-1BC6ECC581DB}|petshop\\petshop.esproj|c:\\users\\otavi\\source\\repos\\technicaltest\\petshop\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{D8166989-C966-4BE9-B2DC-1BC6ECC581DB}|petshop\\petshop.esproj|solutionrelative:petshop\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8166989-C966-4BE9-B2DC-1BC6ECC581DB}|petshop\\petshop.esproj|c:\\users\\otavi\\source\\repos\\technicaltest\\petshop\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{D8166989-C966-4BE9-B2DC-1BC6ECC581DB}|petshop\\petshop.esproj|solutionrelative:petshop\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{F7DA2953-0069-4582-BFE3-3C74FBA13248}|petshop_API\\petshop_API.csproj|c:\\users\\otavi\\source\\repos\\technicaltest\\petshop_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DA2953-0069-4582-BFE3-3C74FBA13248}|petshop_API\\petshop_API.csproj|solutionrelative:petshop_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 263,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,41 +58,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "main.tsx",
-              "DocumentMoniker": "C:\\Users\\otavi\\source\\repos\\technicalTest\\petshop\\src\\main.tsx",
-              "RelativeDocumentMoniker": "petshop\\src\\main.tsx",
-              "ToolTip": "C:\\Users\\otavi\\source\\repos\\technicalTest\\petshop\\src\\main.tsx",
-              "RelativeToolTip": "petshop\\src\\main.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-06-12T00:14:53.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "NavBar.tsx",
-              "DocumentMoniker": "C:\\Users\\otavi\\source\\repos\\technicalTest\\petshop\\src\\Components\\NavBar.tsx",
-              "RelativeDocumentMoniker": "petshop\\src\\Components\\NavBar.tsx",
-              "ToolTip": "C:\\Users\\otavi\\source\\repos\\technicalTest\\petshop\\src\\Components\\NavBar.tsx",
-              "RelativeToolTip": "petshop\\src\\Components\\NavBar.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-06-11T21:40:28.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "App.tsx",
-              "DocumentMoniker": "C:\\Users\\otavi\\source\\repos\\technicalTest\\petshop\\src\\App.tsx",
-              "RelativeDocumentMoniker": "petshop\\src\\App.tsx",
-              "ToolTip": "C:\\Users\\otavi\\source\\repos\\technicalTest\\petshop\\src\\App.tsx",
-              "RelativeToolTip": "petshop\\src\\App.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-06-11T19:51:46.702Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\otavi\\source\\repos\\technicalTest\\petshop_API\\Program.cs",
+              "RelativeDocumentMoniker": "petshop_API\\Program.cs",
+              "ToolTip": "C:\\Users\\otavi\\source\\repos\\technicalTest\\petshop_API\\Program.cs",
+              "RelativeToolTip": "petshop_API\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAFMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T23:39:38.778Z",
               "EditorCaption": ""
             }
           ]

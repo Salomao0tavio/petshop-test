@@ -1,0 +1,38 @@
+# Arquivos específicos do Visual Studio e Rider
+.vscode/
+.vs/
+
+# Arquivos de compilação e logs
+*/bin/
+*/obj/
+*/logs/
+
+# Node.js e dependências do frontend
+node_modules/
+/dist/
+
+# Arquivos de configuração local
+.env.local
+.env.production.local
+.env.test.local
+
+# Arquivos de build da Vite
+.vite/
+
+# Arquivos temporários
+*.tmp
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos específicos de projeto ASP.NET Core (exemplos)
+*.suo
+*.user
+*.cache
+*.dll
+*.exe
+*.pdb
+*.log
+*.csproj.user
+*.appsettings.json

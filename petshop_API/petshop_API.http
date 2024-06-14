@@ -1,0 +1,6 @@
+@petshop_API_HostAddress = http://localhost:5070
+
+GET {{petshop_API_HostAddress}}/api/calculateBestPetshop/
+Accept: application/json
+
+###
